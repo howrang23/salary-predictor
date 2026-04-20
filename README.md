@@ -3,7 +3,7 @@
 A machine learning web app that predicts data science salaries based on experience level, company size, and remote work ratio.
 
 ## 🔗 Live Demo
-👉 [Click here to try the app](https://howrang23-salary-predictor.streamlit.app)
+👉 👉 [Click here to try the app](https://salary-predictor-72nljjj7yhhpvxqyy9peyh.streamlit.app/)
 
 ## 📌 About the Project
 This project uses a Random Forest machine learning model trained on real-world data science job salaries. Users can input their details and get an estimated annual salary instantly.
